@@ -1,0 +1,12 @@
+.components-container {
+    display: flex;         
+    justify-content: space-between; 
+    gap: 20px;          
+    align-items: flex-start; 
+  }
+  
+
+  .components-container > div {
+    flex: 1;                
+  }
+  
